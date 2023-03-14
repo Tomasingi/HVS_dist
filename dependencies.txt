@@ -1,4 +1,6 @@
-# Python dependencies:
+Python version >= 3.8
+
+Python dependencies:
 
 pandas
 jinja2
