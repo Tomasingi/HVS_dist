@@ -1,0 +1,5 @@
+# Python dependencies:
+
+pandas
+jinja2
+openpyxl

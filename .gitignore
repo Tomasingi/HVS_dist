@@ -1,0 +1,11 @@
+**/.~*
+**/~$*
+**/*.un~
+**/out*/*
+temp.ipynb
+.ipynb_checkpoints/
+__pycache__/
+hvsenv/
+build/
+dist/
+*.spec
