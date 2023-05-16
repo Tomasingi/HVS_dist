@@ -3,7 +3,7 @@
 
 ## simple_gui.zip
 
-Mappa með keyrsluskrá (simple_gui.exe) með framenda
+Mappa með keyrsluskrá (simple_gui.exe) með framenda. Stendur sjálft; það þarf bara forritið, Python og Gurobi á vélinni.
 
 ## lib
 
